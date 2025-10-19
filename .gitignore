@@ -64,7 +64,7 @@ dkms.conf
 *.xml
 *.html
 *.wcfg
-*.tcl
+# *.tcl
 *.dcp
 *.zip
 
