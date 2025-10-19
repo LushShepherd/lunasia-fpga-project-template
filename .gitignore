@@ -53,3 +53,48 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# Vivado generated files
+*.xpr
+*.xpr.lock
+*.jou
+*.log
+*.str
+*.pb
+*.xml
+*.html
+*.wcfg
+*.tcl
+*.dcp
+*.zip
+
+# Vivado folders
+*.runs/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.sim/
+*.srcs/
+*.gen/
+*.tmp/
+
+# Simulation artifacts
+*.vcd
+*.wdb
+*.saif
+*.do
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Data and results
+/data/
+*.csv
+*.txt
+*.bin
+*.dat
